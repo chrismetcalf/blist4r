@@ -1,0 +1,7 @@
+= blist4r
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Chris Metcalf. See LICENSE for details.
